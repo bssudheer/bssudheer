@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/im_sudheer_reddy/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4406F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="b.ssudheer32@gmail.com" target="_blank">
+  <a href="srinivassudheer.b@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14842&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/srinivas-sudheer-reddy-buchipalli-aa528ab6/" target="_blank">
