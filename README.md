@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Srinivas Sudheer Reddy Buchipalli</h2>
+<h2 align="left">Hi 👋! I am Sri Buchipalli</h2>
 
 ###
 
